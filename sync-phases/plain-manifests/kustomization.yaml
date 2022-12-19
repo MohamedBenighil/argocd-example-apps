@@ -1,0 +1,5 @@
+resources:
+- pre-sync-job.yaml
+- sync-job.yaml
+- post-sync-job.yaml
+- skip-job.yaml
